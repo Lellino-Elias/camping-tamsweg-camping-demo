@@ -13,7 +13,6 @@ const campingTamsweg: CampsiteConfig = {
   slug: "camping-tamsweg",
   ort: "Tamsweg",
   region: "Salzburger Lungau",
-  theme: "alpin",
   heroVariant: "center",
   brandKind: "Waldcamping",
   regionLong: "UNESCO Biosphärenpark Salzburger Lungau · Österreich",
