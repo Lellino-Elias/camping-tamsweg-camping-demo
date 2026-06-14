@@ -32,17 +32,17 @@ const campingTamsweg: CampsiteConfig = {
   pillars: [
     {
       title: "Unberührte Natur",
-      text: "Tiefgrüne Wälder, romantische Bäche und der wildromantische Prebersee liegen ganz in der Nähe — du campst mitten im Biosphärenpark Lungau.",
+      text: "Tiefgrüner Wald, romantische Bäche und der Prebersee liegen vor der Tür — du campst mitten im Biosphärenpark Lungau.",
       image: { src: `${IMG}/natur-see.webp`, alt: "Morgennebel über einem Bergsee im Salzburger Lungau" },
     },
     {
       title: "Lungauer Gastlichkeit",
-      text: "Jause auf der Alm, wöchentlicher Bauernmarkt und gemütliche Gasthäuser im Ort — die Lungauer Lebensart lernst du von ihrer herzlichsten Seite kennen.",
+      text: "Jause auf der Alm, Bauernmarkt und gemütliche Gasthäuser im Ort — die Lungauer Lebensart von ihrer herzlichsten Seite.",
       image: { src: `${IMG}/gastlichkeit.webp`, alt: "Jause auf einer sonnigen Almterrasse mit Bergblick" },
     },
     {
       title: "Winterzauber",
-      text: "Im Winter verwandelt sich der Lungau in eine glitzernde Schneelandschaft — mit vier familienfreundlichen Skigebieten und tief verschneiten Wegen rundum.",
+      text: "Im Winter glitzert der Lungau als Schneelandschaft mit vier familienfreundlichen Skigebieten und verschneiten Wegen.",
       image: { src: `${IMG}/winterzauber.webp`, alt: "Tief verschneite Winterlandschaft mit Kapelle im Lungau" },
     },
   ],
@@ -71,7 +71,7 @@ const campingTamsweg: CampsiteConfig = {
     features: [
       {
         title: "Am Waldrand und Bach",
-        text: "Saftig grüne Campingwiese zwischen tiefem Wald und dem Taurachbach — du entscheidest, ob du am Waldrand, am Fluss oder nahe dem Spielplatz stehst.",
+        text: "Grüne Campingwiese zwischen Wald und Taurachbach — du wählst deinen Platz am Waldrand, am Fluss oder nahe dem Spielplatz.",
         image: { src: `${IMG}/luftbild-platz.webp`, alt: "Luftbild des Waldcamping Tamsweg am Taurachbach" },
       },
       {
