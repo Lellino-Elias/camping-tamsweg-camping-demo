@@ -43,7 +43,7 @@ const campingTamsweg: CampsiteConfig = {
     {
       title: "Winterzauber",
       text: "Im Winter glitzert der Lungau als Schneelandschaft mit vier familienfreundlichen Skigebieten und verschneiten Wegen.",
-      image: { src: `${IMG}/winterzauber.webp`, alt: "Tief verschneite Winterlandschaft mit Kapelle im Lungau" },
+      image: { src: `${IMG}/winterzauber.webp`, alt: "Wintercamping im verschneiten Waldcampingplatz Tamsweg mit Wohnwagen" },
     },
   ],
 
@@ -61,7 +61,7 @@ const campingTamsweg: CampsiteConfig = {
   saison: { von: "Jänner", bis: "Dezember" },
 
   hero: {
-    aerial: { src: `${IMG}/hero-waldcamping.webp`, alt: "Hauptgebäude des Waldcamping Tamsweg mit Liegewiese und Tischtennis" },
+    aerial: { src: `${IMG}/hero-waldcamping.webp`, alt: "Wanderer auf einem sonnigen Bergweg im Salzburger Lungau mit Panoramablick" },
   },
 
   camping: {
@@ -118,7 +118,7 @@ const campingTamsweg: CampsiteConfig = {
       {
         title: "Wandern in den Bergen",
         text: "Spazierwege, Nordic-Walking-Strecken und Gipfeltouren zwischen Nockbergen und Hohen Tauern — für jede Kondition das Richtige.",
-        image: { src: `${IMG}/aktiv-wandern.webp`, alt: "Wanderer auf einem Höhenweg im Salzburger Lungau" },
+        image: { src: `${IMG}/aktiv-wandern.webp`, alt: "Wanderer auf einem Bergpfad im Salzburger Lungau mit Blick ins Tal" },
       },
       {
         title: "Skifahren & Snowboarden",
@@ -167,6 +167,7 @@ const campingTamsweg: CampsiteConfig = {
       { src: `${IMG}/galerie-skihuette.webp`, alt: "Sonnige Skihütten-Terrasse mit Kaiserschmarrn" },
       { src: `${IMG}/galerie-huette.webp`, alt: "Gemütliche Hüttenjause in einer Almhütte" },
       { src: `${IMG}/galerie-winterwandern.webp`, alt: "Winterwanderung auf verschneitem Weg mit Bergblick" },
+      { src: `${IMG}/galerie-skitouren.webp`, alt: "Skitourengruppe auf verschneitem Berghang im Lungau" },
     ],
   },
 
